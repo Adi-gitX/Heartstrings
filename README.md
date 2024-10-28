@@ -17,12 +17,12 @@ We're currently building something amazing, so stay tuned for updates!
 
 ## 💬 Get in Touch
 We’d love to hear from you! Connect with us on our social media platforms:
-- **Twitter**: [@YourAppName](https://twitter.com)
-- **Instagram**: [@YourAppName](https://instagram.com)
-- **Facebook**: [YourAppName](https://facebook.com)
+- **Twitter**: [@Heartstrings](https://twitter.com)
+- **Instagram**: [@Heartstrings](https://instagram.com)
+- **Facebook**: [Heartstrings](https://facebook.com)
 
 ## 📧 Contact Us
-For inquiries or feedback, please reach out to us at **support@yourappname.com**.
+For inquiries or feedback, please reach out to us at **support@Heartstrings.com**. This is also Under Construction please stay tuned for updates!
 
 Thank you for your patience and support! Stay tuned for exciting updates! 🎶
 
