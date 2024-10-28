@@ -1,6 +1,6 @@
 # 🎵 Heartstrings 🎵
 
-Welcome to **YourAppName**, the innovative music app where you can share your stories and transform them into personalized songs! Our platform connects music lovers through shared experiences and creativity.
+Welcome to **Heartstrings**, the innovative music app where you can share your stories and transform them into personalized songs! Our platform connects music lovers through shared experiences and creativity.
 
 ## 🚧 Under Construction 🚧
 We're currently building something amazing, so stay tuned for updates!
